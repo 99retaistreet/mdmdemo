@@ -6,3 +6,4 @@ applications:
   name: mdmdemo
   host: mdmdemo
   disk_quota: 1024M
+  build:https://github.com/ibmdb/db2heroku-buildpack-php
